@@ -7,7 +7,7 @@ const App = () => {
     console.log("Hey buddy!")
 
     return console.log("Buy Buddy!");
-  }, []);
+  }, [count]);
 
   return (
     <>
