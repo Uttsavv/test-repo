@@ -1,7 +1,8 @@
 import UseEffect from "./pages/UseEffect";
+import UseMemo from "./pages/UseMemo";
 
 const App = () => {
-  return <UseEffect />
+  return <UseMemo />
 };
 
 export default App;
